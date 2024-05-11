@@ -21,14 +21,14 @@ active employees.
 • Key Metrics: Utilized visualizations to track trends and identify talent, with an average employee age of 37 years.
 • Impact: Empowered data-driven HR decisions by pinpointing areas for improvement, thereby fostering a highperforming workforce..
 
-2. **Sales Effectiveness Analysis**: **Project Description**: The purpose of this project is to understand the relationship of each variable with
+2. **Sales Effectiveness Analysis**:[Project Link](https://colab.research.google.com/drive/1GKT-k6h71-Tz5uRqFvQTjtC60tyxX3nu?usp=drive_link) **Project Description**: The purpose of this project is to understand the relationship of each variable with
 outcome variable using graphs and generate useful information for the client.
 • Spearheaded machine learning modelling and evaluation, achieving a remarkable 74% accuracy with
 XGBoost
 • Elevated lead categorization, directly contributing to a significant 15% enhancement in sales
 performance for FicZon Inc..
 
-3. **Liver Patient Prediction**: • **Project Description**:Developed a comprehensive machine learning framework for predicting liver disease,
+3. **Liver Patient Prediction**:[Project Link](https://colab.research.google.com/drive/1hmHLQq5wIIMmD79ZoSh31nf25fMCHVKb?usp=drive_link) • **Project Description**:Developed a comprehensive machine learning framework for predicting liver disease,
 incorporating various algorithms such as SVM, Decision Trees, Random Forest, Gradient Boosting, and
 ANN.
 • Data Scope:Utilized diverse medical datasets containing relevant features and patient information to train
