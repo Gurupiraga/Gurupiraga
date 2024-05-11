@@ -15,12 +15,12 @@ Hey there! I'm **Guruprasad Piraga**, an aspiring Data Scientist passionate abou
 Here are a few notable projects I've worked on:
 
 1. **HR Data Analysis Dashboard**:
-   • **Project Description**: Developed Power BI HR analysis dashboards offering comprehensive insights into
+   - • **Project Description**: Developed Power BI HR analysis dashboards offering comprehensive insights into
 employee demographics, attrition rates, and performance metrics.
-• Data Scope: Analyzed a dataset comprising 1470 employees, including 237 cases of attrition, resulting in 1233
+- • Data Scope: Analyzed a dataset comprising 1470 employees, including 237 cases of attrition, resulting in 1233
 active employees.
-• Key Metrics: Utilized visualizations to track trends and identify talent, with an average employee age of 37 years.
-• Impact: Empowered data-driven HR decisions by pinpointing areas for improvement, thereby fostering a highperforming workforce..
+- • Key Metrics: Utilized visualizations to track trends and identify talent, with an average employee age of 37 years.
+- • Impact: Empowered data-driven HR decisions by pinpointing areas for improvement, thereby fostering a highperforming workforce..
 
 3. **Sales Effectiveness Analysis**:[Project Link](https://colab.research.google.com/drive/1GKT-k6h71-Tz5uRqFvQTjtC60tyxX3nu?usp=drive_link)
   • **Project Description**: The purpose of this project is to understand the relationship of each variable with
