@@ -32,7 +32,7 @@ XGBoost
 - Elevated lead categorization, directly contributing to a significant 15% enhancement in sales
 performance for FicZon Inc..
 
-5. ## **Liver Patient Prediction**:[Project Link](https://colab.research.google.com/drive/1hmHLQq5wIIMmD79ZoSh31nf25fMCHVKb?usp=drive_link)
+5. ## **Liver Patient Prediction**:[Project Link](https://github.com/Gurupiraga/-Liver-Patient-Prediction/blob/f70af378762e0172451f67718f210f1f05743f76/LiverPatientPred.ipynb)
 - **Project Description**:Developed a comprehensive machine learning framework for predicting liver disease,
 incorporating various algorithms such as SVM, Decision Trees, Random Forest, Gradient Boosting, and
 ANN.
