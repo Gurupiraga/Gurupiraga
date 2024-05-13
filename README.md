@@ -16,7 +16,7 @@ Hey there! I'm **Guruprasad Piraga**, an aspiring Data Scientist passionate abou
 
 Here are a few notable projects I've worked on:
 
-1. **HR Data Analysis Dashboard**:
+1. ## **HR Data Analysis Dashboard**:
 -  **Project Description**: Developed Power BI HR analysis dashboards offering comprehensive insights into
 employee demographics, attrition rates, and performance metrics.
 -  **Data Scope**: Analyzed a dataset comprising 1470 employees, including 237 cases of attrition, resulting in 1233
@@ -24,7 +24,7 @@ active employees.
 -  **Key Metrics**: Utilized visualizations to track trends and identify talent, with an average employee age of 37 years.
 -  **Impact**: Empowered data-driven HR decisions by pinpointing areas for improvement, thereby fostering a highperforming workforce..
 
-3. **Sales Effectiveness Analysis**:[Project Link](https://colab.research.google.com/drive/1GKT-k6h71-Tz5uRqFvQTjtC60tyxX3nu?usp=drive_link)
+3. ## **Sales Effectiveness Analysis**:[Project Link](https://colab.research.google.com/drive/1GKT-k6h71-Tz5uRqFvQTjtC60tyxX3nu?usp=drive_link)
 - **Project Description**: The purpose of this project is to understand the relationship of each variable with
 outcome variable using graphs and generate useful information for the client.
 - Spearheaded machine learning modelling and evaluation, achieving a remarkable 74% accuracy with
@@ -32,7 +32,7 @@ XGBoost
 - Elevated lead categorization, directly contributing to a significant 15% enhancement in sales
 performance for FicZon Inc..
 
-5. **Liver Patient Prediction**:[Project Link](https://colab.research.google.com/drive/1hmHLQq5wIIMmD79ZoSh31nf25fMCHVKb?usp=drive_link)
+5. ## **Liver Patient Prediction**:[Project Link](https://colab.research.google.com/drive/1hmHLQq5wIIMmD79ZoSh31nf25fMCHVKb?usp=drive_link)
 - **Project Description**:Developed a comprehensive machine learning framework for predicting liver disease,
 incorporating various algorithms such as SVM, Decision Trees, Random Forest, Gradient Boosting, and
 ANN.
@@ -41,7 +41,7 @@ and validate the predictive models.
 - **Impact**:Achieved a notable 78% accuracy in predicting liver disease, offering potential benefits in early
 diagnosis and intervention for improved patient outcomes.
 
-6. **Rice Leaf Disease Prediction**:[Project Link](https://colab.research.google.com/drive/179ckNVHhVDts_1lE5oAKuMjtxnDlj7n2?usp=sharing)
+6. ## **Rice Leaf Disease Prediction**:[Project Link](https://colab.research.google.com/drive/179ckNVHhVDts_1lE5oAKuMjtxnDlj7n2?usp=sharing)
 - **Project Description**: Developed a CNN-based model for rice leaf disease prediction, leveraging deep learning
 techniques to classify diseases such as leaf blast, bacterial blight, and brown spot.
 - **Data Scope**: Trained the model using a dataset containing 120 images of disease-infected rice leaves, categorized into
@@ -50,7 +50,7 @@ three classes: Bacterial blight, Brown spot, and Leaf smut.
 • Utilized various optimizers including ADAM, RMSprop, SGD, and Adagrad.
 • Achieved the highest accuracy of 89.65% using the ADAM optimizer, outperforming other optimizers..
 
-7. **Employee Performance Analysis**:[project link 1](https://colab.research.google.com/drive/1mWWcpidt6wMr8GlwrcjGJLErh-ad6lpT?usp=sharing) [Project Link 2](https://colab.research.google.com/drive/1Lh0UykUkRvNCeRMGoD6nWhMp9jP97DKv?usp=sharing)
+7. ## **Employee Performance Analysis**:[project link 1](https://colab.research.google.com/drive/1mWWcpidt6wMr8GlwrcjGJLErh-ad6lpT?usp=sharing) [Project Link 2](https://colab.research.google.com/drive/1Lh0UykUkRvNCeRMGoD6nWhMp9jP97DKv?usp=sharing)
 - **Project Description**:
 • INX Future Inc embarks on an employee data analysis project to uncover underlying factors affecting performance.
 • The project aims to provide actionable insights for HR decision-making while preserving employee morale and the
