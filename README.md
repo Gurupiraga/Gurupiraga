@@ -4,6 +4,8 @@ Hey there! I'm **Guruprasad Piraga**, an aspiring Data Scientist passionate abou
 
 ## About Me
 
+📚 Currently, I'm learning about **Large Language Models (LLMs)** and exploring their applications in natural language processing (NLP) tasks.
+
 👨‍💻 I'm proficient in **Python**, **MySQL**, **Power BI**, and have hands-on experience with **AWS** services such as **EC2**.
 
 🔬 My areas of expertise include **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and Data Visualization.
