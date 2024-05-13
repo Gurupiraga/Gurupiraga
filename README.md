@@ -41,7 +41,7 @@ and validate the predictive models.
 - **Impact**:Achieved a notable 78% accuracy in predicting liver disease, offering potential benefits in early
 diagnosis and intervention for improved patient outcomes.
 
-6. ## **Rice Leaf Disease Prediction**:[Project Link](https://colab.research.google.com/drive/179ckNVHhVDts_1lE5oAKuMjtxnDlj7n2?usp=sharing)
+6. ## **Rice Leaf Disease Prediction**:[Project Link](https://github.com/Gurupiraga/Rice-Leaf-Disease-Prediction-/blob/f9f0cf4798a43824c5de9ed0a192008f1409bf5f/Rice_Leaf_Disease_Prediction%20(1).ipynb)
 - **Project Description**: Developed a CNN-based model for rice leaf disease prediction, leveraging deep learning
 techniques to classify diseases such as leaf blast, bacterial blight, and brown spot.
 - **Data Scope**: Trained the model using a dataset containing 120 images of disease-infected rice leaves, categorized into
