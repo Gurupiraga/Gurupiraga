@@ -24,7 +24,7 @@ active employees.
 -  **Key Metrics**: Utilized visualizations to track trends and identify talent, with an average employee age of 37 years.
 -  **Impact**: Empowered data-driven HR decisions by pinpointing areas for improvement, thereby fostering a highperforming workforce..
 
-3. ## **Sales Effectiveness Analysis**:[Project Link](sales effectiveness .ipynb)
+3. ## **Sales Effectiveness**:[Project Link](https://github.com/Gurupiraga/-Sales-Effectiveness/blob/9441000fe3bc3a115efea01a6e7ac7bde376cfb8/sales%20effectiveness%20.ipynb)
 - **Project Description**: The purpose of this project is to understand the relationship of each variable with
 outcome variable using graphs and generate useful information for the client.
 - Spearheaded machine learning modelling and evaluation, achieving a remarkable 74% accuracy with
